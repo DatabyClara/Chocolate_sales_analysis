@@ -33,7 +33,7 @@ A market analysis was conducted using open data on chocolate international sales
 ### Next steps / further analysis:
 
 1. Interactive dashboards
-- Build dashboards using Power BI or Python libraries like Plotly/Dash.  
+- Build dashboards using Power BI.  
 - Track KPIs: total revenue, units sold, top products, and country-level trends.  
 
 2. Product performance country-level analysis:
