@@ -13,7 +13,7 @@ A market analysis was conducted using open data on chocolate international sales
 ![Plotly Express](https://img.shields.io/badge/Plotly-Orange?logo=plotly&logoColor=white&style=for-the-badge)
 
 
-### 4. Results:
+### 4. Overall results:
 **Revenue contribution and market differences:** 
 - All countries contribute similarly to the global revenue (15–18%), with Australia leading and New Zealand contributing the least. However, revenue patterns differ by country, reflecting unique market behaviors and seasonal effects.
 
