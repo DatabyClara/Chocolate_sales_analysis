@@ -30,8 +30,10 @@ A market analysis was conducted using open data on chocolate international sales
 - Negative correlations between price and volume across all markets indicate that chocolate sales are generally price-sensitive. 
 - Australia, the USA, and Canada show the highest sensitivity, while India demonstrates more stable demand regardless of price changes.
 
+### 5. **Power BI report**
+<img width="1182" height="660" alt="image" src="https://github.com/user-attachments/assets/946ba69f-5678-4c7e-a0b0-d17f57a74626" />
 
-### 5. **Next steps / further analysis:**
+### 6. **Next steps / further analysis:**
 **Interactive dashboards**
 - Build dashboards using Power BI.  
 - Track KPIs: total revenue, units sold, top products, and country-level trends.  
